@@ -2,3 +2,4 @@ Mood diary
 
 1. Too lazy
 2. Freezing!
+3. Hungry
